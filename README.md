@@ -11,4 +11,4 @@ Depois de clonar o projeto:
 No navegador, com o endereço http://localhost:3000/ deve ser exibido o projeto funcionando.
 
 Vídeo exemplo em funcionamento:
-https://drive.google.com/file/d/1r6nWmsWmBhz8Y-ELuDnAtEE5MakPZ39H/preview
+https://drive.google.com/file/d/1HpVvsTaDFlYyC0uNqeGP6Si5pPtbCh0w/view
